@@ -11,7 +11,7 @@
 }
 .myimage{
   float: left;
-  margin-left: 300px;
+  margin-left: 22%;
   margin-right: 75px;
 }
 .intro{
@@ -23,7 +23,7 @@
 }
 .hello{
   color: orange;
-  font-size: 70px;
+  font-size: 437.5%;
     font-family: 'Montserrat', sans-serif;
 
 }
@@ -50,10 +50,10 @@
   margin-right: 10px;
 }
 .contactme{
-  margin-right: 10px;
+  margin-right: 40px;
 }
 .contactme:hover{
-  margin-right: 10px;
+    margin-right: 40px;
   color: #959595;
 }
 .name1{
@@ -105,35 +105,34 @@ a{
   color:inherit;
 }
 .contact{
-  font-size: 35px;
-margin-left:  18px;
+  font-size: 300%;
+margin-left: .5%;
   font-family: 'Montserrat', sans-serif;
-  margin-bottom: 10px;
-  position: relative;
-  bottom: 8px;
+  margin-bottom: 2%;
+position: relative;
+bottom: 15px;
   display: inline-block;
-  right:10px;
+
 }
 .python,.html,.css1 {
   display: inline-block;
-  width: 10rem;
-padding-left:10rem;
-padding-right: 10rem;
+  width: 10%;
+padding: 0 10% 0 10%;
 position: relative;
-left:4rem;
+left:4%;
 }
 .skillp{
     font-family: 'Montserrat', sans-serif;
-    font-size: 3rem;
+    font-size: 300%;
 padding-left: 45%;}
 .programmer{
-  width: 10rem;
+  width: 10%;
 
 float: right;
-margin-right: 22%;
-right: 22%}
+margin-right: 18%;
+}
 .commimg{
-  width: 2.5%;
+  width: 4%;
   display: inline-block;
   margin-left: 5%;
 }
