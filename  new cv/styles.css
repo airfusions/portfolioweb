@@ -33,6 +33,7 @@
   font-family: 'Sacramento', cursive;
   font-size: 40px;
   padding: 10px;
+  position: relative;
 }
 .home{
   margin-right: 10px;
@@ -127,9 +128,9 @@ left:4%;
 padding-left: 45%;}
 .programmer{
   width: 10%;
-
+position: absolute;
 float: right;
-margin-right: 18%;
+margin-right: 22%;
 }
 .commimg{
   width: 4%;
