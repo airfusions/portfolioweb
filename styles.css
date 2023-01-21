@@ -172,6 +172,12 @@ line-height: 1.5;
   margin-left:6vw;
   font-size: 3.5vw;
 }
+.book
+{
+  width: 5vw;
+  float: left;
+
+}
 @media (max-width:480px) {
 
     .buttons{
@@ -246,4 +252,5 @@ margin-left: 34vw;
 .programmer{
   width: 20%;
 }
+  .star{width:1.5vw;}
 }
