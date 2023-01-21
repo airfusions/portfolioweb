@@ -106,7 +106,7 @@ a{
   color:inherit;
 }
 .contact{
-  font-size: 300%;
+  font-size: 3.35vw;
 margin-left: .5%;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 2%;
@@ -124,7 +124,7 @@ left:4%;
 }
 .skillp{
     font-family: 'Montserrat', sans-serif;
-    font-size: 300%;
+    font-size: 3.35vw;
 padding-left: 45%;}
 .programmer{
   width: 10%;
@@ -136,4 +136,47 @@ margin-right: 22%;
   width: 4%;
   display: inline-block;
   margin-left: 5%;
+}
+.skilldesc{
+  font-size:1.75vw;
+}
+@media (max-width:480px) {
+
+    .buttons{
+      display: none;
+    }
+    .name{
+      margin-left: 5vw;
+      margin-bottom: 10vw;
+    }
+.skillp{
+  font-size: 7vw;
+padding-left: 37%;
+}
+.myimage{
+  width: 50%;
+  margin-bottom: 7vw;
+}
+.hello{
+  margin-left: 27vw;
+  margin-bottom: 3vw;
+}
+.python,.html,.css1{
+  width: 15vw;
+padding: 0 7vw 0 7vw;
+left: 0;
+}
+.commimg
+{
+  width:10vw;
+}
+.contact{
+  font-size: 6vw;
+}
+.linkedin,.mailto,.insta,.github{
+  width: 8vw;
+}
+.github{
+  margin-left: 15px;
+}
 }
