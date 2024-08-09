@@ -254,3 +254,53 @@ margin-left: 34vw;
 }
   .star{width:3.5vw;}
 }
+
+
+
+
+
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-mode .hello {
+  color: #ffa500;
+}
+
+.dark-mode .btn1 {
+  background-color: #ffa500;
+}
+
+.dark-mode .btn1:hover {
+  background-color: #ff6347;
+}
+
+.dark-mode hr {
+  border-color: #404040;
+}
+
+.dark-mode .btn2 {
+  background-color: #3a8a7a;
+  color: #e0e0e0;
+}
+
+.dark-mode .linkedin,
+.dark-mode .mailto,
+.dark-mode .insta,
+.dark-mode .github {
+  filter: invert(1);
+}
+
+.dark-mode .python,
+.dark-mode .html,
+.dark-mode .css1,
+.dark-mode .programmer,
+.dark-mode .commimg,
+.dark-mode .aboutimg,
+.dark-mode .projectimg,
+.dark-mode .book {
+  filter: brightness(0.8) contrast(1.2);
+}
